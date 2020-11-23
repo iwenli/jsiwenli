@@ -1,0 +1,19 @@
+{
+  "name": "jsiwenli",
+  "version": "1.0.0",
+  "description": "iwenli 脚本常用助手",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iwenli/jsiwenli.git"
+  },
+  "author": "iwenli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iwenli/jsiwenli/issues"
+  },
+  "homepage": "https://github.com/iwenli/jsiwenli#readme"
+}
